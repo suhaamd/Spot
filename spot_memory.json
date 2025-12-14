@@ -1,0 +1,126 @@
+{
+  "Arms": {
+    "Bicep curl": {
+      "muscle_groups": "biceps",
+      "description": "isolates biceps to give bigger arms and strength. Targets long and short head of bicep.",
+      "times_done": 12,
+      "tip": "Don't swing your elbows and lock them in by placing them by your sides."
+    },
+    "Tricep Pushdown": {
+      "muscle_groups": "triceps",
+      "description": "isolates triceps and improved arm size and definition.Targets lateral head of tricep. ",
+      "times_done": 0,
+      "tip": "Keep your core tight and don't let the arms come all the way to top to maintain tension."
+    },
+    "Bayesian curl": {
+      "muscle_groups": "biceps",
+      "description": "targets biceps and increased muscle tension. Reduced risk of imbalances and targets long head",
+      "times_done": 0,
+      "tip": "Keep your stance perfect so you're stable."
+    },
+    "Overhead tricep extension": {
+      "muscle_groups": "triceps",
+      "description": "good for adding size to tricep. Targets the long head of tricep.",
+      "times_done": 0,
+      "tip": "Don't let your arms go too back."
+    }
+  },
+  "Legs": {
+    "Hack Squat": {
+      "muscle_groups": "quads, glutes",
+      "description": "targets quads heavily while also engaging glutes. Provides support for back and helps build lower body strength.",
+      "times_done": 0,
+      "tip": "Keep your knees soft and don't lock them in."
+    },
+    "Leg Press": {
+      "muscle_groups": "quads, glutes, hamstrings",
+      "description": "compound movement for lower body strength and mass. Less strain on lower back compared to squats.",
+      "times_done": 5,
+      "tip": "Keep knees soft and don't curl let the back round up. Keep it firm."
+    },
+    "Leg Extension": {
+      "muscle_groups": "quads",
+      "description": "isolates the quadriceps for definition and strength. Great for knee stability and hypertrophy.",
+      "times_done": 0,
+      "tip": "Don't go too heavy on weight because it will effect the knees."
+    }
+  },
+  "Chest": {
+    "Incline Dumbbell Chest Press": {
+      "muscle_groups": "upper chest, front deltoids, triceps",
+      "description": "targets upper portion of the pectoral muscles. Helps create a fuller upper chest and balanced chest development.",
+      "times_done": 0
+    },
+    "Cable Flys High to Low": {
+      "muscle_groups": "middle and lower chest",
+      "description": "isolation exercise that emphasizes middle and lower chest fibers. Provides constant tension through full range of motion.",
+      "times_done": 0
+    }
+  },
+  "Back": {
+    "Lat Pulldown": {
+      "muscle_groups": "lats, biceps, upper back",
+      "description": "strengthens latissimus dorsi and builds width in the back. Ideal for improving pull-up performance.",
+      "times_done": 0
+    },
+    "Barbell Row": {
+      "muscle_groups": "lats, rhomboids, lower back",
+      "description": "compound movement for thickness in the back. Also strengthens lower back and core when done with proper form.",
+      "times_done": 0
+    },
+    "High Row": {
+      "muscle_groups": "upper back, rear delts, traps",
+      "description": "targets upper back and rear deltoids for a wider and more developed upper body. Enhances posture and pulling power.",
+      "times_done": 0
+    }
+  },
+  "Core": {
+    "Russian Twists": {
+      "muscle_groups": "obliques, core",
+      "description": "rotational core exercise that targets the obliques. Improves core stability and rotational strength.",
+      "times_done": 0
+    },
+    "Sit Ups": {
+      "muscle_groups": "rectus abdominis",
+      "description": "classic core exercise targeting the upper abs. Helps build abdominal endurance and strength.",
+      "times_done": 0
+    },
+    "Planks": {
+      "muscle_groups": "entire core",
+      "description": "isometric hold that engages the full core, including transverse abdominis and stabilizer muscles. Builds endurance and stability.",
+      "times_done": 0
+    }
+  },
+  "Cardio": {
+    "Stair Master": {
+      "muscle_groups": "glutes, quads, calves, cardiovascular system",
+      "description": "high-intensity cardio machine that targets lower body muscles while improving heart health and endurance.",
+      "times_done": 0
+    },
+    "Cycling": {
+      "muscle_groups": "quads, hamstrings, calves, cardiovascular system",
+      "description": "low-impact cardio that improves cardiovascular fitness and leg endurance. Can be used for steady-state or HIIT.",
+      "times_done": 0
+    },
+    "Incline Treadmill": {
+      "muscle_groups": "glutes, hamstrings, calves, cardiovascular system",
+      "description": "walking or running on incline increases lower body engagement and burns more calories. Great for fat loss and endurance.",
+      "times_done": 0
+    }
+  },
+  "History": {
+    "Arms": [
+      {
+        "workout": "Bicep curl",
+        "date": "2025-07-08",
+        "duration": "00:46",
+        "calories_burned": 2.61
+      }
+    ],
+    "Legs": [],
+    "Chest": [],
+    "Back": [],
+    "Core": [],
+    "Cardio": []
+  }
+}
