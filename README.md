@@ -35,11 +35,11 @@ The ML model compares your rep's signal in real time against the ideal form prof
 
 | Dashboard | Active Session | Session Complete |
 |---|---|---|
-| ![Dashboard](screenshots/dashboard.png) | ![Session](screenshots/session.png) | ![Complete](screenshots/complete.png) |
+| ![Dashboard](screenshots/dashboard.jpeg) | ![Session](screenshots/session.jpeg) | ![Complete](screenshots/complete.jpeg) |
 
 | History | Profile |
 |---|---|
-| ![History](screenshots/history.png) | ![Profile](screenshots/profile.png) |
+| ![History](screenshots/history.jpeg) | ![Profile](screenshots/profile.jpeg) |
 
 
 ## Tech Stack
