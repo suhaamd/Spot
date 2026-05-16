@@ -31,6 +31,16 @@ Spot uses three sensors:
 The ML model compares your rep's signal in real time against the ideal form profile for that exercise and outputs a deviation score — mapped to green (good), yellow (okay) or red (bad form).
 
 ---
+## Screenshots
+
+| Dashboard | Active Session | Session Complete |
+|---|---|---|
+| ![Dashboard](screenshots/dashboard.png) | ![Session](screenshots/session.png) | ![Complete](screenshots/complete.png) |
+
+| History | Profile |
+|---|---|
+| ![History](screenshots/history.png) | ![Profile](screenshots/profile.png) |
+
 
 ## Tech Stack
 
