@@ -2,7 +2,7 @@
 
 > AI-powered gym band that corrects your form in real time.
 
-![Spot Banner](assets/images/banner.png)
+![Spot Banner](assets/images/spotlogo.png)
 
 ## What is Spot?
 
